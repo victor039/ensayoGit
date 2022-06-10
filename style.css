@@ -31,3 +31,14 @@ nav{
     text-align: center;
     line-height: 20px;
 }
+section{
+    width:60%;
+    height:400px;
+    background-color:#DAF7A6;
+    color:#000;
+    font-size: 30px;
+    text-align: center;
+   display:flex;
+   align-items: center;
+   justify-content: center;
+}
